@@ -1,0 +1,5 @@
+{
+  "name": "CodeGenesis - 双钻模型代码生成器",
+  "description": "基于构思(Inception)与构建(Construction)双阶段流程的智能代码生成工具。支持Java Spring Boot与Vue3全栈代码生成、在线编辑与项目管理。",
+  "requestFramePermissions": []
+}
